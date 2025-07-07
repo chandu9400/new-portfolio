@@ -374,8 +374,8 @@
             .nav-links {
                 position: fixed;
                 top: 75px;
-                right: -300px;
-                width: 300px;
+                right: -350px;
+                width: 350px;
                 height: 100vh;
                 background: rgba(250, 250, 250, 0.95);
                 
