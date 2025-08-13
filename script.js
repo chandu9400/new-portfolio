@@ -7,7 +7,7 @@
             // Example of how to trigger an actual download:
             const link = document.createElement('a');
             link.target = '_blank';
-            link.href = 'https://drive.google.com/file/d/1YBUzxYFDAB2_61DqYjmIRAehMd2ybs45/view?usp=sharing';
+            link.href = 'https://drive.google.com/file/d/1Mpk-8AmDRm3HP-GPJeXYqY4oXLGhJNuT/view?usp=sharing';
 
             link.download = 'Chandraket_Resume.pdf';
             link.click();
